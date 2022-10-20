@@ -9,6 +9,7 @@ CREATE TABLE products
     updated_at   datetime(6)  DEFAULT NULL
 );
 
+
 CREATE TABLE orders
 (
     order_id     binary(16) PRIMARY KEY,
